@@ -2,7 +2,7 @@ import unittest
 
 
 def tambah(a, b):
-    return a + b
+    return a - b
 
 
 class TestCalculator(unittest.TestCase):
